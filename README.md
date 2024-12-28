@@ -16,6 +16,9 @@ Install the following on the pi
 ```
 start the script
 > ./mitm_start.sh up
+stop the running script with ctrl-c
+  
+to cleanup after running the script run  
 > ./mitm_start.sh down
 ```
 
