@@ -15,7 +15,8 @@ Install the following on the pi
 # script
 ```
 start the script
-> ./mitm.sh up
+> ./mitm_start.sh up
+> ./mitm_start.sh down
 ```
 
 # TCPDUMP
